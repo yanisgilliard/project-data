@@ -15,8 +15,8 @@ Analyse des Données : Le notebook Jupyter [football.ipynb] présente l'analyse 
 
 ## Prérequis
 Pour exécuter le code Python dans les notebooks Jupyter, les bibliothèques suivantes doivent être installées :
-    - pandas
-    - matplotlib
+- pandas
+- matplotlib
 
 ## Auteur
 Ce projet a été réalisé par Yanis Gilliard.
